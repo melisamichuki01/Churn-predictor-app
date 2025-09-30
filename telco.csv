@@ -1,0 +1,6 @@
+index,customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+0,8421-LMZPQ,Female,1,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,85.5,427.5
+1,1943-TRWDC,Male,0,Yes,Yes,24,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),49.95,1198.8
+2,6732-XJYTR,Female,0,No,No,12,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,75.3,903.6
+3,3087-ABKLP,Male,1,Yes,No,60,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),65.2,3912.0
+4,5109-ZNQWE,Female,0,No,Yes,8,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,20.15,161.2
